@@ -28,7 +28,10 @@ The analysis of the PyCitySchools data show:
     - Refer to: new_math_scores_by_grade and new_reading_scores_by_grade
 - Removing the ninth grade scores reduced the average % Passing Math, average % Passing Reading, and average % Overall Passing of the schools in the 3rd range of spending ($630-644). 
     - Refer to: new_spending_summary_df
+    ![](pictures/Scores%20by%20spending.png)
 - Removing the ninth grade scores affected the medium size (1000-2000) schools by reducing the average % Passing Math, average % Passing Reading, and average % Overall Passing. 
     - Refer to: new_size_summary_df
+    ![](pictures/Scores%20by%20size.png)
 - Removing the ninth grade scores affected the Charter schools by reducing the average % Passing Math, average % Passing Reading, and average % Overall Passing. 
     - Refer to: new_type_summary_df
+    ![](pictures/Scores%20by%20type.png)
