@@ -19,6 +19,7 @@ Resources: Python 3.7.7; Conda 4.7.12
 The analysis of the PyCitySchools data show:
 - The district summary was affected by a non-significant difference in Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.
     - Refer to: new_district_summary_df
+    ![](pictures/District%20summary.png)
 - The school summary was affected the number of students who passed math, reading, and both math and reading by returning less number of students. This result reduced % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School only. The NaN values in math and reading scores for Thomas High School 9th graders did not affect any other schools' performances.
     - Refer to: new_per_school_summary_df
 - Removing the ninth graders' math and reading scores shifted Thomas High School from ranking 2nd highest performing group to ranking the middle performing group out of 15 schools. 
