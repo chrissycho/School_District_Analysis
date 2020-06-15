@@ -3,7 +3,7 @@ Resources: Python 3.7.7; Conda 4.7.12
 
 ## Challenge Overview
 1. Correct the students' names so there are no professional prefixes or suffixes. (This was taken into account in Cell 9-10)
-2. Replace the reading and math scores for ninth graders at Thomas High School with NaN. (The following analysis begin after a cell with import numpy as np)
+2. Replace the reading and math scores for ninth graders at Thomas High School with NaN. (The following analysis begin from cell 103)
 3. Merge the clean student data with the school dataset.
 4. Present a written analysis that correctly answers the following questions: 
 - How is the district summary affected?
